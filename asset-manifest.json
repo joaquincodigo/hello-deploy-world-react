@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hello-deploy-world/static/css/main.f855e6bc.css",
-    "main.js": "/hello-deploy-world/static/js/main.92ed7be7.js",
-    "static/js/453.5049e97a.chunk.js": "/hello-deploy-world/static/js/453.5049e97a.chunk.js",
-    "static/media/logo.svg": "/hello-deploy-world/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hello-deploy-world/index.html",
-    "main.f855e6bc.css.map": "/hello-deploy-world/static/css/main.f855e6bc.css.map",
-    "main.92ed7be7.js.map": "/hello-deploy-world/static/js/main.92ed7be7.js.map",
-    "453.5049e97a.chunk.js.map": "/hello-deploy-world/static/js/453.5049e97a.chunk.js.map"
+    "main.css": "/hello-deploy-world-react/static/css/main.f855e6bc.css",
+    "main.js": "/hello-deploy-world-react/static/js/main.6d958328.js",
+    "static/js/453.5049e97a.chunk.js": "/hello-deploy-world-react/static/js/453.5049e97a.chunk.js",
+    "static/media/logo.svg": "/hello-deploy-world-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hello-deploy-world-react/index.html",
+    "main.f855e6bc.css.map": "/hello-deploy-world-react/static/css/main.f855e6bc.css.map",
+    "main.6d958328.js.map": "/hello-deploy-world-react/static/js/main.6d958328.js.map",
+    "453.5049e97a.chunk.js.map": "/hello-deploy-world-react/static/js/453.5049e97a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.92ed7be7.js"
+    "static/js/main.6d958328.js"
   ]
 }
